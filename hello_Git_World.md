@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Rapyd prototype
 - 🌱 I’m currently learning ...more 3D develop with unreal engine
 - 💞️ I’m looking to collaborate on ... drawing machines
-- 📫 How to reach me ...by mail or in the repositorys
+- 📫 How to reach me ...by mail or in the repositorys // 1.1ender@gmail.com
 
 <!---
 r3nder/r3nder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
